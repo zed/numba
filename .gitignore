@@ -19,3 +19,4 @@ build/
 
 tags
 TAGS
+/numba.egg-info/*
